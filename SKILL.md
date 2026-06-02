@@ -98,7 +98,7 @@ LOGO_MARK  = /home/claude/assets/image2.svg   ← X mark icon (top-right, all ot
 Photos load from GitHub raw URLs (no download needed):
 
 ```
-GITHUB_RAW = https://raw.githubusercontent.com/TheLeroyMeyer/weaver-fintech-skill/main/assets/
+GITHUB_RAW = https://raw.githubusercontent.com/TheLeroyMeyer/weaver-fintech-skill/main/
 ```
 
 ---
@@ -223,7 +223,7 @@ const BF = 'Axiforma';  // same family; differentiate weights via bold: true/fal
 const LOGO      = '/home/claude/assets/image1.svg';  // written by setup.js
 const LOGO_MARK = '/home/claude/assets/image2.svg';  // written by setup.js
 
-const GH = 'https://raw.githubusercontent.com/TheLeroyMeyer/weaver-fintech-skill/main/assets/';
+const GH = 'https://raw.githubusercontent.com/TheLeroyMeyer/weaver-fintech-skill/main/';
 
 const PHOTOS = {
   title: { path: GH+'image5.png',  w: 9.91 },
